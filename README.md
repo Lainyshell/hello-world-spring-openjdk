@@ -7,3 +7,4 @@ To run the image locally, run `docker run --rm -it -p 8080:8080 example/hello-wo
 You can then hit the following endpoints:
 - `/hello`
 - `/hello/{name}`, where `{name}` can be anything you want.
+
